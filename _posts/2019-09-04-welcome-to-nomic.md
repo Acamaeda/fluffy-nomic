@@ -23,7 +23,7 @@ cooperative games to play together, but of course this isn't part of the rules.
 You could just as easily make this nomic a cutthroat game of deception.
 
 By the way, the Github repository is
-[EmmiaSilk/fluffy-nomic](github.com/fluffy-nomic). Let me know if you would
+[EmmiaSilk/fluffy-nomic](http://github.com/EmmiaSilk/fluffy-nomic). Let me know if you would
 like to join, and I'll add you as a contributor to the repository. If you have
 any questions, I'm usually around to answer them. We can also make changes to
 the rules before we start if you would like something important added.
