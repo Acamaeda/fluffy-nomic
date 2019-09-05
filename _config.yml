@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a game where we use the rules of nomic to make the rules of other
   games.
 baseurl: "/fluffy-nomic" # the subpath of your site, e.g. /blog
-url: "https://emmiasilk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://nomic.emmiasilk.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
