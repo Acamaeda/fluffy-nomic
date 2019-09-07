@@ -6,3 +6,6 @@ permalink: /players/
 
 # Emmia Silk
 Hi! I'm Emmia, and I want to play games.
+
+# Harley/Acamaeda
+Some really weird nerd.
